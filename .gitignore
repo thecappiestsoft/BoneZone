@@ -1,0 +1,7 @@
+# zależności i pliki tymczasowe budowania (w folderze source/)
+source/node_modules/
+source/dist/
+source/dist-single/
+source/tsconfig.tsbuildinfo
+.DS_Store
+Thumbs.db
